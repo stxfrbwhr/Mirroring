@@ -108,3 +108,11 @@
 | [`wikipedia_en_history_maxi_2026-04_split.z09`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_history_maxi_2026-04.zim_20260513-110147%2Fwikipedia_en_history_maxi_2026-04_split.z09) | 99.0 MB | 82a7a096 |
 
 ---
+
+## Python-3.14.3.tar.xz_20260513-205140
+
+| File | Size | CRC32 |
+|--- |--- |---|
+| [`Python-3.14.3.tar.xz`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2FPython-3.14.3.tar.xz_20260513-205140%2FPython-3.14.3.tar.xz) | 22.7 MB | 33489909 |
+
+---

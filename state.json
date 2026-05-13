@@ -303,6 +303,17 @@
           "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z09"
         }
       ]
+    },
+    "https://www.python.org/ftp/python/3.14.3/Python-3.14.3.tar.xz": {
+      "folder": "downloads/Python-3.14.3.tar.xz_20260513-205140",
+      "files": [
+        {
+          "name": "Python-3.14.3.tar.xz",
+          "size": 23778568,
+          "crc32": "33489909",
+          "path": "downloads/Python-3.14.3.tar.xz_20260513-205140/Python-3.14.3.tar.xz"
+        }
+      ]
     }
   },
   "ranges": {}
