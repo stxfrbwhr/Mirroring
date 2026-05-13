@@ -1,14 +1,2 @@
-# VPN apps
-ajavadinezhad/zyrln [all,pre]
-therealaleph/MasterHttpRelayVPN-RUST [all,pre]
+https://download.osmand.net/download?standard=yes&file=Iran_asia_2.obf.zip
 
-# v2rayN - Windows (64-bit)
-2dust/v2rayN [^v2rayN-windows-64\.zip$, pre]
-
-# v2rayNG - Android Universal
-2dust/v2rayNG [^v2rayNG_(?!.*-fdroid).*_universal\.apk$, pre]
-
-# Rules & configs (no compression - keep raw)
-Chocolate4U/Iran-v2ray-rules [all,nocompress,pre]
-
-https://download.kiwix.org/zim/wikipedia/wikipedia_en_mathematics_maxi_2026-03.zim
