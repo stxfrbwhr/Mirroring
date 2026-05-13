@@ -2,53 +2,14 @@
 
 ---
 
-## v1.5.1 pre-release 6_v1.5.1-pre6
-
-| File | Size | CRC32 |
-|--- |--- |---|
-| [`zyrln-1.5.1-pre6-windows-amd64.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6-windows-amd64.zip) | 6.1 MB | 94376219 |
-| [`zyrln-1.5.1-pre6-linux-amd64`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6-linux-amd64) | 10.9 MB | dacad140 |
-| [`zyrln-1.5.1-pre6.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6.zip) | 23.3 MB | d1dcc0ad |
-
----
-
-## v1.9.23_v1.9.23
-
-| File | Size | CRC32 |
-|--- |--- |---|
-| [`mhrv-rs-linux-musl-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-musl-arm64.tar.zip) | 2.1 MB | 2b7385c1 |
-| [`mhrv-rs-windows-amd64.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-windows-amd64.zip) | 7.5 MB | bbceb2f4 |
-| [`mhrv-rs-linux-musl-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-musl-amd64.tar.zip) | 2.3 MB | c8b8000f |
-| [`mhrv-rs-android-universal-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-universal-v1.9.23.zip) | 23.8 MB | c98ddc44 |
-| [`mhrv-rs-macos-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-amd64.tar.zip) | 7.1 MB | 1b3beedd |
-| [`mhrv-rs-android-x86_64-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-x86_64-v1.9.23.zip) | 13.8 MB | de318b49 |
-| [`mhrv-rs-macos-amd64-app.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-amd64-app.zip) | 5.0 MB | 2df14b4b |
-| [`mhrv-rs-android-arm64-v8a-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-arm64-v8a-v1.9.23.zip) | 13.6 MB | cb55c36c |
-| [`mhrv-rs-macos-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-arm64.tar.zip) | 6.5 MB | 9241c516 |
-| [`mhrv-rs-linux-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-amd64.tar.zip) | 9.7 MB | 75f50945 |
-| [`mhrv-rs-linux-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-arm64.tar.zip) | 2.1 MB | 5382ba38 |
-| [`mhrv-rs-openwrt-mipsel-softfloat.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-openwrt-mipsel-softfloat.tar.zip) | 2.2 MB | baec45de |
-| [`mhrv-rs-android-armeabi-v7a-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-armeabi-v7a-v1.9.23.zip) | 13.1 MB | dc71b65e |
-| [`mhrv-rs-macos-arm64-app.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-arm64-app.zip) | 4.6 MB | f4f73f19 |
-| [`mhrv-rs-android-x86-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-x86-v1.9.23.zip) | 13.9 MB | 1f80c969 |
-| [`mhrv-rs-raspbian-armhf.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-raspbian-armhf.tar.zip) | 2.0 MB | 30978314 |
-
----
-
-## 7.22.0_7.22.0
-
-| File | Size | CRC32 |
-|--- |--- |---|
-| [`v2rayN-windows-64_split.z01`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F7.22.0_7.22.0%2Fv2rayN-windows-64_split.z01) | 99.0 MB | 66f800b5 |
-| [`v2rayN-windows-64_split.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F7.22.0_7.22.0%2Fv2rayN-windows-64_split.zip) | 55.4 MB | 2995514c |
-
----
-
-## 2.1.7_2.1.7
-
-| File | Size | CRC32 |
-|--- |--- |---|
-| [`v2rayNG_2.1.7_universal.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F2.1.7_2.1.7%2Fv2rayNG_2.1.7_universal.zip) | 59.8 MB | be7a4e62 |
+## wikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936
+| File | Size |
+|--- |---|
+| [`wikipedia_en_chemistry_maxi_2026-04_split.z01`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936%2Fwikipedia_en_chemistry_maxi_2026-04_split.z01) | 99.0 MB |
+| [`wikipedia_en_chemistry_maxi_2026-04_split.z02`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936%2Fwikipedia_en_chemistry_maxi_2026-04_split.z02) | 99.0 MB |
+| [`wikipedia_en_chemistry_maxi_2026-04_split.z03`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936%2Fwikipedia_en_chemistry_maxi_2026-04_split.z03) | 99.0 MB |
+| [`wikipedia_en_chemistry_maxi_2026-04_split.z04`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936%2Fwikipedia_en_chemistry_maxi_2026-04_split.z04) | 99.0 MB |
+| [`wikipedia_en_chemistry_maxi_2026-04_split.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/downloads%2Fwikipedia_en_chemistry_maxi_2026-04.zim_20260513-084936%2Fwikipedia_en_chemistry_maxi_2026-04_split.zip) | 50.7 MB |
 
 ---
 
@@ -67,5 +28,55 @@
 | [`geoip.dat`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F202604280714_202604280714%2Fgeoip.dat) | 18.1 MB | da8c6bd0 |
 | [`geosite.dat`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F202604280714_202604280714%2Fgeosite.dat) | 7.5 MB | 079af31d |
 | [`security-ip.dat`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F202604280714_202604280714%2Fsecurity-ip.dat) | 17.1 KB | f26aa427 |
+
+---
+
+## v1.5.1 pre-release 6_v1.5.1-pre6
+
+| File | Size | CRC32 |
+|--- |--- |---|
+| [`zyrln-1.5.1-pre6-windows-amd64.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6-windows-amd64.zip) | 6.1 MB | c76cc271 |
+| [`zyrln-1.5.1-pre6-linux-amd64`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6-linux-amd64) | 10.9 MB | dacad140 |
+| [`zyrln-1.5.1-pre6.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.5.1%20pre-release%206_v1.5.1-pre6%2Fzyrln-1.5.1-pre6.zip) | 23.3 MB | c4288df5 |
+
+---
+
+## v1.9.23_v1.9.23
+
+| File | Size | CRC32 |
+|--- |--- |---|
+| [`mhrv-rs-linux-musl-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-musl-arm64.tar.zip) | 2.1 MB | 26ec5b75 |
+| [`mhrv-rs-windows-amd64.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-windows-amd64.zip) | 7.5 MB | bbceb2f4 |
+| [`mhrv-rs-linux-musl-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-musl-amd64.tar.zip) | 2.3 MB | cd602eea |
+| [`mhrv-rs-android-universal-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-universal-v1.9.23.zip) | 23.8 MB | 98ad4c4d |
+| [`mhrv-rs-macos-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-amd64.tar.zip) | 7.1 MB | 203dfa77 |
+| [`mhrv-rs-android-x86_64-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-x86_64-v1.9.23.zip) | 13.8 MB | e16db4be |
+| [`mhrv-rs-macos-amd64-app.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-amd64-app.zip) | 5.0 MB | 2df14b4b |
+| [`mhrv-rs-android-arm64-v8a-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-arm64-v8a-v1.9.23.zip) | 13.6 MB | d078f914 |
+| [`mhrv-rs-macos-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-arm64.tar.zip) | 6.5 MB | 81c2f3be |
+| [`mhrv-rs-linux-amd64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-amd64.tar.zip) | 9.7 MB | 1a6ab7ce |
+| [`mhrv-rs-linux-arm64.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-linux-arm64.tar.zip) | 2.1 MB | 3d8bf9c3 |
+| [`mhrv-rs-openwrt-mipsel-softfloat.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-openwrt-mipsel-softfloat.tar.zip) | 2.2 MB | a26bfcc1 |
+| [`mhrv-rs-android-armeabi-v7a-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-armeabi-v7a-v1.9.23.zip) | 13.1 MB | 4b2bd584 |
+| [`mhrv-rs-macos-arm64-app.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-macos-arm64-app.zip) | 4.6 MB | f4f73f19 |
+| [`mhrv-rs-android-x86-v1.9.23.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-android-x86-v1.9.23.zip) | 13.9 MB | 687b0b7c |
+| [`mhrv-rs-raspbian-armhf.tar.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2Fv1.9.23_v1.9.23%2Fmhrv-rs-raspbian-armhf.tar.zip) | 2.0 MB | edb557b5 |
+
+---
+
+## 7.22.0_7.22.0
+
+| File | Size | CRC32 |
+|--- |--- |---|
+| [`v2rayN-windows-64_split.z01`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F7.22.0_7.22.0%2Fv2rayN-windows-64_split.z01) | 99.0 MB | 3bca88d9 |
+| [`v2rayN-windows-64_split.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F7.22.0_7.22.0%2Fv2rayN-windows-64_split.zip) | 55.4 MB | bff342eb |
+
+---
+
+## 2.1.7_2.1.7
+
+| File | Size | CRC32 |
+|--- |--- |---|
+| [`v2rayNG_2.1.7_universal.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F2.1.7_2.1.7%2Fv2rayNG_2.1.7_universal.zip) | 59.8 MB | b9871544 |
 
 ---

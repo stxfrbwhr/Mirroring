@@ -3,7 +3,7 @@
 | Property | Value |
 |--- |---|
 | **URL** | https://github.com/2dust/v2rayNG/releases/tag/2.1.7 |
-| **Downloaded** | 2026-05-13 08:35 UTC |
+| **Downloaded** | 2026-05-13 08:50 UTC |
 | **Release Date** | 2026-05-10 06:23 UTC (3 days ago) |
 | **Total Size** | 59.8 MB |
 | **Release Name** | 2.1.7 |
@@ -11,6 +11,6 @@
 
 <details><summary>Files</summary>
 
-- [`v2rayNG_2.1.7_universal.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F2.1.7_2.1.7%2Fv2rayNG_2.1.7_universal.zip) (59.8 MB) `(CRC32: be7a4e62)`
+- [`v2rayNG_2.1.7_universal.zip`](https://github.com/stxfrbwhr/Mirroring/raw/main/repos%2F2.1.7_2.1.7%2Fv2rayNG_2.1.7_universal.zip) (59.8 MB) `(CRC32: b9871544)`
 
 </details>
