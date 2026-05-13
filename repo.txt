@@ -1,2 +1,5 @@
-https://download.osmand.net/download?standard=yes&file=Iran_asia_2.obf.zip
+https://download.kiwix.org/zim/wikipedia/wikipedia_en_geography_maxi_2026-04.zim
 
+https://download.kiwix.org/zim/wikipedia/wikipedia_en_physics_maxi_2026-04.zim
+
+https://download.kiwix.org/zim/wikipedia/wikipedia_en_history_maxi_2026-04.zim
