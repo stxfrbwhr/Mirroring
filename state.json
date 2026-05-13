@@ -12,6 +12,297 @@
     "https://download.osmand.net/download?standard=yes&file=Iran_asia_2.obf.zip": {
       "folder": "downloads/download_20260513-094607",
       "files": []
+    },
+    "https://download.kiwix.org/zim/wikipedia/wikipedia_en_geography_maxi_2026-04.zim": {
+      "folder": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820",
+      "files": [
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z07",
+          "size": 103809024,
+          "crc32": "69bf4d6b",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z07"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z01",
+          "size": 103809024,
+          "crc32": "442701c1",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z01"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z04",
+          "size": 103809024,
+          "crc32": "2aaa7926",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z04"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z10",
+          "size": 103809024,
+          "crc32": "96d0f772",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z10"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z05",
+          "size": 103809024,
+          "crc32": "48d31e78",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z05"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z09",
+          "size": 103809024,
+          "crc32": "cc532d81",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z09"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z02",
+          "size": 103809024,
+          "crc32": "3e19625f",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z02"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z06",
+          "size": 103809024,
+          "crc32": "9ab486ce",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z06"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z12",
+          "size": 103809024,
+          "crc32": "176e57db",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z12"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z11",
+          "size": 103809024,
+          "crc32": "a1bdd94a",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z11"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.zip",
+          "size": 90962289,
+          "crc32": "1ecdb039",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.zip"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z03",
+          "size": 103809024,
+          "crc32": "0b4b55ba",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z03"
+        },
+        {
+          "name": "wikipedia_en_geography_maxi_2026-04_split.z08",
+          "size": 103809024,
+          "crc32": "9095b8b0",
+          "path": "downloads/wikipedia_en_geography_maxi_2026-04.zim_20260513-105820/wikipedia_en_geography_maxi_2026-04_split.z08"
+        }
+      ]
+    },
+    "https://download.kiwix.org/zim/wikipedia/wikipedia_en_physics_maxi_2026-04.zim": {
+      "folder": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017",
+      "files": [
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z04",
+          "size": 103809024,
+          "crc32": "05937421",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z04"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z03",
+          "size": 103809024,
+          "crc32": "38a464bc",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z03"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z05",
+          "size": 103809024,
+          "crc32": "ea0f1ca3",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z05"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z01",
+          "size": 103809024,
+          "crc32": "a8d9761c",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z01"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z10",
+          "size": 103809024,
+          "crc32": "dcb9d8ba",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z10"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z09",
+          "size": 103809024,
+          "crc32": "0ec279ea",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z09"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z08",
+          "size": 103809024,
+          "crc32": "6224aa16",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z08"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.zip",
+          "size": 98234105,
+          "crc32": "7e5f68bb",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.zip"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z02",
+          "size": 103809024,
+          "crc32": "1293868f",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z02"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z06",
+          "size": 103809024,
+          "crc32": "bfd8cf3a",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z06"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z07",
+          "size": 103809024,
+          "crc32": "7b46eae4",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z07"
+        },
+        {
+          "name": "wikipedia_en_physics_maxi_2026-04_split.z11",
+          "size": 103809024,
+          "crc32": "a07ef863",
+          "path": "downloads/wikipedia_en_physics_maxi_2026-04.zim_20260513-110017/wikipedia_en_physics_maxi_2026-04_split.z11"
+        }
+      ]
+    },
+    "https://download.kiwix.org/zim/wikipedia/wikipedia_en_history_maxi_2026-04.zim": {
+      "folder": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147",
+      "files": [
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z14",
+          "size": 103809024,
+          "crc32": "20176663",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z14"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.zip",
+          "size": 96233318,
+          "crc32": "ecbf0112",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.zip"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z12",
+          "size": 103809024,
+          "crc32": "4e21be24",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z12"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z01",
+          "size": 103809024,
+          "crc32": "1c61de99",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z01"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z06",
+          "size": 103809024,
+          "crc32": "d9402470",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z06"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z13",
+          "size": 103809024,
+          "crc32": "1119e920",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z13"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z17",
+          "size": 103809024,
+          "crc32": "a3d14468",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z17"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z20",
+          "size": 103809024,
+          "crc32": "46b178d9",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z20"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z10",
+          "size": 103809024,
+          "crc32": "da668a31",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z10"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z04",
+          "size": 103809024,
+          "crc32": "f96acdf9",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z04"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z03",
+          "size": 103809024,
+          "crc32": "e80cff14",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z03"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z16",
+          "size": 103809024,
+          "crc32": "8d072c93",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z16"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z11",
+          "size": 103809024,
+          "crc32": "9f360176",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z11"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z07",
+          "size": 103809024,
+          "crc32": "c885aaf5",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z07"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z15",
+          "size": 103809024,
+          "crc32": "7706669a",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z15"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z08",
+          "size": 103809024,
+          "crc32": "986cf60e",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z08"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z19",
+          "size": 103809024,
+          "crc32": "21d0d008",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z19"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z02",
+          "size": 103809024,
+          "crc32": "fc6b4c5c",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z02"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z05",
+          "size": 103809024,
+          "crc32": "9d28dc55",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z05"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z18",
+          "size": 103809024,
+          "crc32": "3f2a913f",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z18"
+        },
+        {
+          "name": "wikipedia_en_history_maxi_2026-04_split.z09",
+          "size": 103809024,
+          "crc32": "82a7a096",
+          "path": "downloads/wikipedia_en_history_maxi_2026-04.zim_20260513-110147/wikipedia_en_history_maxi_2026-04_split.z09"
+        }
+      ]
     }
   },
   "ranges": {}
