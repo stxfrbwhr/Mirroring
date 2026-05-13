@@ -10,3 +10,6 @@ therealaleph/MasterHttpRelayVPN-RUST [all,pre]
 
 # Rules & configs (no compression - keep raw)
 Chocolate4U/Iran-v2ray-rules [all,nocompress,pre]
+
+
+https://wi.mirror.driftle.ss/kiwix/zim/wikipedia/wikipedia_en_chemistry_maxi_2026-04.zim
