@@ -1,0 +1,12 @@
+{
+  "url": "https://download.osmand.net/download?standard=yes&file=Iran_asia_2.obf.zip",
+  "method": "direct",
+  "crc32": {
+    "download_split.z01": "0b577054",
+    "download_split.z03": "89a2cdd8",
+    "download_split.z04": "73fd35b6",
+    "download_split.z02": "8d515e55",
+    "download_split.zip": "3ef229b9"
+  },
+  "downloaded": "2026-05-13T09:46:16.291866+00:00"
+}
